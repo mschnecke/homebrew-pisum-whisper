@@ -1,6 +1,6 @@
 cask "pisum-whisper" do
   version "1.0.1"
-  sha256 arm: "da8c2c4bfcd27b3a9f439f0a39a0e764b7f8db676ee085382bf78e20b9d79feb"
+  sha256 arm: "d0676134c5e6f171256876d1c140e4ce7adb74250545a1ebfa1afbeebed66468"
 
   url "https://github.com/mschnecke/pisum-whisper/releases/download/v#{version}/Pisum.Whisper_#{version}_osx-arm64.pkg"
 
